@@ -717,6 +717,7 @@ if(isset($_POST['submit'])){
                     <li data-target="#testimonial_095" data-slide-to="2"></li>
                     <li data-target="#testimonial_095" data-slide-to="3"></li>
                     <li data-target="#testimonial_095" data-slide-to="4"></li>
+                    <li data-target="#testimonial_095" data-slide-to="5"></li>
                 </ol> 
                 <!-- Wrapper For Slides -->
                 <div class="carousel-inner">
@@ -724,9 +725,9 @@ if(isset($_POST['submit'])){
                     <div class="carousel-item active">
                         <!-- Text Layer -->
                         <div class="testimonial_095_slide"> 
-                            <img src="img/human1.svg" class="d-block" alt="fahmi net" width="100%" height="100%">
-                            <p>Lorem ipsum dolor sit amet <a href="#">@consectetuer</a> adipiscing elit am nibh unc varius facilisis eros ed erat in in velit quis arcu ornare laoreet urabitur.</p>
-                            <h5><a href="#">name of consumer</a></h5>
+                            <img src="img/man1.svg" class="d-block" alt="fahmi net" width="100%" height="100%">
+                            <p>"Kualitas Internet Baik, dipakai 4-5 device juga masih tetap lancar-lancar aja."</p>
+                            <h5>pak ali<br>client pmp blok d-08</h5>
                         </div> 
                         <!-- /Text Layer -->
                     </div> <!-- /item -->
@@ -736,8 +737,8 @@ if(isset($_POST['submit'])){
                         <!-- Text Layer -->
                         <div class="testimonial_095_slide">
                             <img src="img/human1.svg" class="d-block" alt="fahmi net" width="100%" height="100%">
-                            <p>Lorem ipsum dolor sit amet <a href="#">@consectetuer</a> adipiscing elit am nibh unc varius facilisis eros ed erat in in velit quis arcu ornare laoreet urabitur.</p>
-                            <h5><a href="#">name of consumer</a></h5>
+                            <p>"Lebih irit biaya per bulan nya, kualitas internet baik."</p>
+                            <h5>pak jalu<br>client pmp blok b-12</h5>
                         </div> <!-- /Text Layer -->
                     </div> <!-- /item -->
                     <!-- End of Second Slide -->
@@ -745,9 +746,9 @@ if(isset($_POST['submit'])){
                     <div class="carousel-item">
                         <!-- Text Layer -->
                         <div class="testimonial_095_slide">
-                            <img src="img/human1.svg" class="rounded-circle d-block" alt="fahmi net" width="100%" height="100%">
-                            <p>Lorem ipsum dolor sit amet <a href="#">@consectetuer</a> adipiscing elit am nibh unc varius facilisis eros ed erat in in velit quis arcu ornare laoreet urabitur.</p>
-                            <h5><a href="#">name of consumer</a></h5>
+                            <img src="img/man2.svg" class="rounded-circle d-block" alt="fahmi net" width="100%" height="100%">
+                            <p>"Lancar sekali, saat bermain game ping normal walaupun lagi hujan. Per bulan juga jadi irit."</p>
+                            <h5>pak john<br>client pmp blok d-12</h5>
                         </div> <!-- /Text Layer -->
                     </div> <!-- /item -->
                     <!-- End of Third Slide -->
@@ -755,9 +756,9 @@ if(isset($_POST['submit'])){
                     <div class="carousel-item">
                         <!-- Text Layer -->
                         <div class="testimonial_095_slide">
-                            <img src="img/human1.svg" class="rounded-circle d-block" alt="fahmi net" width="100%" height="100%">
-                            <p>Lorem ipsum dolor sit amet <a href="#">@consectetuer</a> adipiscing elit am nibh unc varius facilisis eros ed erat in in velit quis arcu ornare laoreet urabitur.</p>
-                            <h5><a href="#">name of consumer</a></h5>
+                            <img src="img/man3.svg" class="rounded-circle d-block" alt="fahmi net" width="100%" height="100%">
+                            <p>"Kualitas Internet Baik, apalagi unlimited tanpa batasan kuota 24 jam Non Stop."</p>
+                            <h5>pak maruli<br>client pmp blok c-06</h5>
                         </div> <!-- /Text Layer -->
                     </div> <!-- /item -->
                     <!-- End of Thirs Slide -->
@@ -765,12 +766,22 @@ if(isset($_POST['submit'])){
                     <div class="carousel-item">
                         <!-- Text Layer -->
                         <div class="testimonial_095_slide">
-                            <img src="img/human1.svg" class="rounded-circle d-block" alt="fahmi net" width="100%" height="100%">
-                            <p>Lorem ipsum dolor sit amet <a href="#">@consectetuer</a> adipiscing elit am nibh unc varius facilisis eros ed erat in in velit quis arcu ornare laoreet urabitur.</p>
-                            <h5><a href="#">name of consumer</a></h5>
+                            <img src="img/man4.svg" class="rounded-circle d-block" alt="fahmi net" width="100%" height="100%">
+                            <p>"Lebih irit dibandingkan dengan kuota paket data selama per bulan nya."</p>
+                            <h5>pak pramono<br>client pmp blok d-06</h5>
                         </div> <!-- /Text Layer -->
                     </div> <!-- /item -->
                     <!-- End of FourSlide -->
+                    <!-- Five Slide -->
+                    <div class="carousel-item">
+                        <!-- Text Layer -->
+                        <div class="testimonial_095_slide">
+                            <img src="img/man5.svg" class="rounded-circle d-block" alt="fahmi net" width="100%" height="100%">
+                            <p>"Kualitas Internet lumayan baik, apalagi untuk dipakai di banyak device."</p>
+                            <h5>pak salman<br>client pmp blok d-01</h5>
+                        </div> <!-- /Text Layer -->
+                    </div> <!-- /item -->
+                    <!-- End of FiveSlide -->
                 </div> <!-- End of Wrapper For Slides -->
                 <!-- Left Control --> <a class="carousel-control-prev" href="#testimonial_095" data-slide="prev"> <span class="fa fa-chevron-left"></span> </a> <!-- Right Control --> <a class="carousel-control-next" href="#testimonial_095" data-slide="next"> <span class="fa fa-chevron-right"></span> </a>
             </div> <!-- End Paradise Slider -->
@@ -793,7 +804,7 @@ if(isset($_POST['submit'])){
                             </div>
                             <div class="TeamInfo text-center">
                                 <div class="Name">Fahmi Rinaldi</div>
-                                <div class="Job"><b>Technician, Programmer, and Desaigner</b></div>
+                                <div class="Job"><b>Technician, Programmer, and Designer</b></div>
                                 <div class="social_links">
                                     <div class="social">
                                         <a class="nav-link" href="tel:+628979023149"><i class="fa fa-phone-alt" aria-hidden="true"></i></a>
