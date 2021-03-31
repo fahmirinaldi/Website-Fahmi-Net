@@ -732,7 +732,7 @@ html,body{
 #Testimonial .content{
     padding: 40px 40px 70px 40px;
 } 
-.testimonial_095_slide>h5>a:hover {
+.testimonial_095_slide>h5:hover {
     border: 1px solid #aa914f
 }
 #testimonial_095 {
@@ -834,7 +834,7 @@ html,body{
     border: 2px solid #ffffff
 }
 .testimonial_095_header>h5,
-.testimonial_095_slide>h5>a,
+.testimonial_095_slide>h5,
 .testimonial_095_slide>p {
     text-shadow: none;
     font-family: 'Truculenta', sans-serif;  
@@ -939,7 +939,7 @@ html,body{
     color: #fff;
     background: #aa914f
 }
-.testimonial_095_slide>h5>a {
+.testimonial_095_slide>h5 {
     padding: 3px;
     color: #1ed600;
     font-size: 14px;
@@ -951,7 +951,7 @@ html,body{
     -webkit-transition: border .5s cubic-bezier(.39, .575, .565, 1);
     transition: border .5s cubic-bezier(.39, .575, .565, 1)
 }
-.testimonial_095_slide>h5>a:hover {
+.testimonial_095_slide>h5:hover {
     border: 1px solid #aa914f
 }
 
